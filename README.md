@@ -1,2 +1,2 @@
 # kaggle-titanic
-kaggle competition spaceship titanic
+Kaggle competition submitted with score 0.78957
