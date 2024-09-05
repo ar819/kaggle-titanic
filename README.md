@@ -1,2 +1,2 @@
-# kaggle-titanic
-Kaggle competition submitted with score 0.78957
+# Gradient boosting solution to kaggle spaceship titanic competition
+Score: 0.78957
